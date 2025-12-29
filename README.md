@@ -112,13 +112,13 @@ scope.launch {
 
 To use the full capabilities of the SamTap SDK in a production environment, you must obtain an API Key.
 
-👉 **[Sign up for your Developer API Key](https://samtap.com/signup)**
+👉 **[Sign up for your Developer API Key](https://samtap-587af.web.app)**
 
 Without a valid key, the SDK operates in a limited trial mode (limited scans per day or obfuscated data).
 
 ## Support
 
-For documentation, FAQs, and support, visit [developer.samtap.com](https://developer.samtap.com).
+For documentation, FAQs, and support, visit [here](https://samtap-587af.web.app/docs.html).
 
 ## License
 
